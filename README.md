@@ -1,5 +1,5 @@
-# NavalBattle
-A simple Naval Battle game written in C with Allegro5.2 Library
+# Battleship
+A simple Battleship board game written in C with Allegro5.2 Library
 
 Compliled with MingW-64
 Package Allegro in https://packages.msys2.org/package/mingw-w64-x86_64-allegro?repo=mingw64
